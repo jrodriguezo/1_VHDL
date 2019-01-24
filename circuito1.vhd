@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------
--- Company: UniversidadPolitecnicaMadrid
--- Engineer: JesusRodriguezOvejero
+-- Company:
+-- Engineer: Jesus
 -- 
 -- Create Date:    18:09:30 10/03/2017 
 -- Design Name: 
